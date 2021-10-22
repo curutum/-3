@@ -1,5 +1,6 @@
  # Лабораторная работа №3
- [*Тык*](https://avatars.mds.yandex.net/get-zen_doc/142473/pub_5b655557b9dc1000a9ec99c3_5b6555eb1cec2400a97796ec/scale_1200)
+ ![](https://i.pinimg.com/originals/40/b8/85/40b88551d30bbb732f47e04221125378.jpg)
+ 
  ### Задание 1 ### 
     print('Я люблю язык Python') 
  >> Я люблю язык Python
